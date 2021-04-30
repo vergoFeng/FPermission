@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fpermission_access_background_location">Background location</string>
+    <string name="fpermission_system_alert_window">Display over other apps</string>
+    <string name="fpermission_write_settings">Modify system settings</string>
+    <string name="fpermission_manage_external_storage">All files access</string>
+</resources>
